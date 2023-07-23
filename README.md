@@ -1,4 +1,4 @@
-# -emotion-recognition
+# Emotion-recognition
 This repository contains Python scripts for an application for emotion recognition. The application is developed with TensorFlow and Keras, using Convolutional Neural Networks (CNNs) and webcam image capture in real-time. The model is trained and evaluated using a dataset of grayscale images, each of which is classified as one of seven emotions.
 ## Setup and Requirements
 
